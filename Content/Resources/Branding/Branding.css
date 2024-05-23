@@ -1,0 +1,19 @@
+/*<meta />*/
+
+/* MadCap-Branding applanguage:Templates/Projects/Tutorials/San Diego/ */
+
+:root
+{
+	--Primary: #EA7645;
+	--Secondary: #FBF6F1;
+	--Lightest: #FFFFFF;
+	--Light: #DADEE1;
+	--Dark: #45494C;
+	--Medium: #A4AAAE;
+	--Darkest: #000000;
+	--LogoImage: url('../Images/Logo-Online.png');
+	--LogoImagePrint: url('../Images/Logo-Print.svg');
+	--HeroImage: url('../Images/Hero-Image.png');
+	--FontFamily: Arial, Avenir, Myriad;
+}
+
